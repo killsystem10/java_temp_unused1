@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c29ba5-907e-4257-b846-fa6207aca51a" name="변경" comment="Compare Bing and ChatGPT about Calculator">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="08c29ba5-907e-4257-b846-fa6207aca51a" name="변경" comment="Upload 기호 2번.pptx" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678338908550</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Upload 기호 2번.pptx">
+      <created>1678421824331</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678421824331</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +124,7 @@
     <MESSAGE value="Create test.java" />
     <MESSAGE value="Delete test.java" />
     <MESSAGE value="Compare Bing and ChatGPT about Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Compare Bing and ChatGPT about Calculator" />
+    <MESSAGE value="Upload 기호 2번.pptx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload 기호 2번.pptx" />
   </component>
 </project>
