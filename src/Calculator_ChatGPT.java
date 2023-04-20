@@ -16,29 +16,27 @@ public class Calculator_ChatGPT {
         num2 = sc.nextDouble();
 
         switch (operator) {
-            case '+':
+            case '+' -> {
                 result = num1 + num2;
                 System.out.println(num1 + " + " + num2 + " = " + result);
-                break;
-            case '-':
+            }
+            case '-' -> {
                 result = num1 - num2;
                 System.out.println(num1 + " - " + num2 + " = " + result);
-                break;
-            case '*':
+            }
+            case '*' -> {
                 result = num1 * num2;
                 System.out.println(num1 + " * " + num2 + " = " + result);
-                break;
-            case '/':
+            }
+            case '/' -> {
                 if (num2 == 0) {
                     System.out.println("0으로 나눌 수 없습니다.");
                 } else {
                     result = num1 / num2;
                     System.out.println(num1 + " / " + num2 + " = " + result);
                 }
-                break;
-            default:
-                System.out.println("잘못된 연산자입니다.");
-                break;
+            }
+            default -> System.out.println("잘못된 연산자입니다.");
         }
     }
 }
